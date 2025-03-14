@@ -17,7 +17,7 @@
 #### Дашборды
 <a href="https://public.tableau.com/app/profile/maria.lemina/vizzes"><img src="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/Tableau_logo.svg/2560px-Tableau_logo.svg.png" height="30" alt="icon"></a>
 
-#### Базовые знания
+#### Дополнительные навыки
 
 `CSS` `HTML` `Git` `Jira`
 
