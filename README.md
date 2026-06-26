@@ -1,12 +1,10 @@
 ### Привет! 👋
 
-Меня зовут Мария, и я только начинаю свой путь в сфере аналитики данных.
-
-Меня привлекает аналитика, потому что я люблю разбираться в сложных процессах, систематизировать информацию и работать с цифрами.
+Меня зовут Мария, и я люблю разбираться в сложных процессах, систематизировать информацию и работать с цифрами.
 
 Работа с данными позволяет не только упорядочивать большие объемы информации, но и находить ценные инсайты, которые помогают принимать обоснованные решения.
 
-#### Ключевые навыки
+#### Ключевые навыки:
 
 `Python` `Pandas` `Matplotlib` `Seaborn` `SQL` `Tableau`
 
@@ -14,10 +12,10 @@
 
 `Bitrix24` `1С-Битрикс: Управление сайтом` `1С: Управление торговлей`
 
-#### Дашборды
-<a href="https://public.tableau.com/app/profile/maria.lemina/vizzes"><img src="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/Tableau_logo.svg/2560px-Tableau_logo.svg.png" height="30" alt="icon"></a>
+#### Дашборды:
+<a href="https://public.tableau.com/app/profile/maria.lemina/vizzes"><img src="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/Tableau_logo.svg/1280px-Tableau_logo.svg.png" height="35" alt="icon"></a>
 
-#### Дополнительные навыки
+#### Дополнительные навыки:
 
 `CSS` `HTML` `Git` `Jira`
 
